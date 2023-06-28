@@ -1,1 +1,1 @@
-pprint("test")
+print("test")
