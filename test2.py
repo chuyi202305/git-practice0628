@@ -5,3 +5,4 @@ c += 10
 print(c)
 c -= 5
 print(c)
+c += 8
